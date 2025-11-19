@@ -18,5 +18,5 @@
     - The initial "magical solution" failed, leading to the final decision: "We must hire a Consultant!"
       
       
-
+## 
 ![Caso1 Gestión del Cambio -  Transformación de la Cadena Logística](https://github.com/user-attachments/assets/7ef6dc79-7365-4108-bc01-2318986ed51b)
